@@ -1,0 +1,3 @@
+/home/alex/projects/oop_course_2nd_task/cmake-build-debug/CMakeFiles/oop_course_2nd_task.dir
+/home/alex/projects/oop_course_2nd_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/projects/oop_course_2nd_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir

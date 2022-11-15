@@ -1,0 +1,19 @@
+# ninja log v5
+1219	1314	1667856397855974201	oop_course_2nd_task	2b01f10575163fda
+3	1501	1667855838537144051	CMakeFiles/oop_course_2nd_task.dir/srcs/map_tests.cpp.o	b7656ec1e34ff437
+0	23	1667856404772096864	build.ninja	430e0463f3a4775b
+1	923	1667855837961110959	CMakeFiles/oop_course_2nd_task.dir/srcs/queue_tests.cpp.o	9c8d9aa80bd44eb9
+2	822	1667856357111464494	CMakeFiles/oop_course_2nd_task.dir/srcs/stack_tests.cpp.o	23bd9add23ab38bb
+1	1219	1667856397759972575	CMakeFiles/oop_course_2nd_task.dir/srcs/list_tests.cpp.o	f9e8989a79c49a95
+0	458	1667856396999959699	CMakeFiles/oop_course_2nd_task.dir/srcs/main.cpp.o	bf5e5405691e952f
+1	1463	1667856357751469520	CMakeFiles/oop_course_2nd_task.dir/srcs/vector_tests.cpp.o	80450b423975275b
+0	22	1667856404772096864	build.ninja	430e0463f3a4775b
+1	415	1667856496274545365	CMakeFiles/oop_course_2nd_task.dir/srcs/main.cpp.o	bf5e5405691e952f
+0	1196	1667856588422229638	CMakeFiles/oop_course_2nd_task.dir/srcs/list_tests.cpp.o	f9e8989a79c49a95
+1196	1286	1667856588514233794	oop_course_2nd_task	2b01f10575163fda
+1	416	1667856608339148431	CMakeFiles/oop_course_2nd_task.dir/srcs/main.cpp.o	bf5e5405691e952f
+1	1109	1667856609031181019	CMakeFiles/oop_course_2nd_task.dir/srcs/list_tests.cpp.o	f9e8989a79c49a95
+1109	1197	1667856609119185171	oop_course_2nd_task	2b01f10575163fda
+0	376	1667856613179377335	CMakeFiles/oop_course_2nd_task.dir/srcs/main.cpp.o	bf5e5405691e952f
+1	1112	1667856613915412326	CMakeFiles/oop_course_2nd_task.dir/srcs/list_tests.cpp.o	f9e8989a79c49a95
+1112	1209	1667856614011416891	oop_course_2nd_task	2b01f10575163fda
